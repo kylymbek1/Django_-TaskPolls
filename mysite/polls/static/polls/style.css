@@ -1,7 +1,6 @@
 li a, p {font-size: xx-large;
-        color: rgb(236, 236, 236);
+        color: rgb(0, 0, 0);
 }
 body {
-    background: white url("images/bg.jpg") no-repeat;
+    background: rgb(202, 31, 31) url("images/bg.jpg") no-repeat;
 }
-
